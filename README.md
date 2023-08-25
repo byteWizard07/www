@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+<img src="https://github.com/byteWizard07/www/blob/main/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/byteWizard07/www/tree/main/screenshots">click here</a>
 
 # Technologies Used
 <ul>
@@ -30,14 +30,13 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Start XAMMP. Start Apache and SQL server. Go to phpmyadmin and create a new database named 'food'</li>
 <li>Go to the food database created and click on 'Import' option in the top menu</li>
 <li>Upload the food.sql file and import it</li>
-<li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
+<li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/) or
+ (http://localhost/www)</li>
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## Amit Kumar
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/byteWizard07</li>
+<li>LinkedIn:https://www.linkedin.com/in/amit-kumar-0874b7217/</li>
 </ul>
